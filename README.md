@@ -1,36 +1,51 @@
-# DecodeLabs Data Analytics – Project 1
+# DecodeLabs Data Analytics Internship – Tasks
 
-## Data Cleaning and Preprocessing
+This repository contains the projects and tasks completed as part of my **DecodeLabs Data Analytics Internship**.
 
-This project was completed as part of my **DecodeLabs Data Analytics Internship**.
+## About the Internship
 
-### Objective
+During this internship, I worked on practical data analytics tasks using Python and related tools. The projects helped me develop skills in data cleaning, preprocessing, exploratory data analysis, and data quality checking.
 
-The objective of this project was to clean and preprocess an order dataset using **Python and Pandas** and verify the quality of the data.
+## Tasks and Projects
 
-### Tasks Completed
+### Project 1 – Data Cleaning and Preprocessing
 
+* Cleaned and preprocessed an order dataset
 * Checked and handled missing values
 * Checked for duplicate Order IDs
-* Validated and converted date values
-* Verified data types of columns
+* Validated date values
+* Verified data types
 * Performed final data quality checks
 
-### Tools Used
+**Tools:** Python, Pandas, VS Code
+
+### Project 2 – Exploratory Data Analysis
+
+In Project 2, I worked with an order dataset and performed initial **Exploratory Data Analysis (EDA)** using Python and Pandas.
+
+#### Work Completed
+
+* Loaded and inspected the dataset using Pandas
+* Examined the dataset columns and structure
+* Checked data types
+* Reviewed important numerical and categorical columns
+* Performed basic data exploration
+* Analyzed order-related data to understand patterns and characteristics
+* Prepared the data for further analysis
+
+**Tools:** Python, Pandas, VS Code
+
+## Tools Used
 
 * Python
 * Pandas
 * VS Code
+* Git & GitHub
 
-### Dataset
+## Dataset Privacy
 
-The original dataset is **not included in this repository** because I do not want to publicly share the dataset.
+Original datasets are not included in this public repository to avoid publicly sharing the provided data.
 
-### Outcome
+## Repository Purpose
 
-The data was cleaned, validated, and checked for consistency as part of the data preprocessing process.
-
-### Internship
-
-**Program:** DecodeLabs Data Analytics Internship
-**Project:** Project 1 – Data Cleaning and Preprocessing
+This repository is maintained as a portfolio of my work and learning progress during the **DecodeLabs Data Analytics Internship**.
